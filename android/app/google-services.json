@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006554220175",
+    "firebase_url": "https://glog-285511.firebaseio.com",
+    "project_id": "glog-285511",
+    "storage_bucket": "glog-285511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006554220175:android:aae864194560304f16d2fa",
+        "android_client_info": {
+          "package_name": "com.glog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006554220175-4004e22tmifu2m5be8ohrt8f3tvjraen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glog",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1006554220175-rp0598ro1ktni34a4g276vhkavok6fcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-qjN5yadZZD6aey9eu1nOnY1aiEXeFAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006554220175-rp0598ro1ktni34a4g276vhkavok6fcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
